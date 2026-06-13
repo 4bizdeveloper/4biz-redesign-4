@@ -8,6 +8,7 @@ import Testimonials from "@/components/Testimonials";
 import MapSection from '@/components/MapSection';
 import Contact from '@/components/Contact';
 import ClientSection from '@/components/ClientSection';
+import Faq from '@/components/Faq';
 
 export default function Home() {
   return (
@@ -16,9 +17,10 @@ export default function Home() {
       <About />
       <Services />  
        <ClientSection />   
-      <Testimonials />   
+      <Testimonials /> 
+      <Faq />  
       <MapSection />
-      <Contact />    
+      <Contact />         
     </main>
   );
 }

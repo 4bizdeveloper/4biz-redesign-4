@@ -571,7 +571,7 @@ const Contact = () => {
                       </>
                     ) : (
                       <>
-                        ESTABLISH LINK <RiRocketLine className="text-xl animate-bounce" />
+                        GET FREE CONSULTATION <RiRocketLine className="text-xl animate-bounce" />
                       </>
                     )}
                   </button>
